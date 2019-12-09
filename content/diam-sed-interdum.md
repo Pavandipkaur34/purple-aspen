@@ -1,7 +1,7 @@
 ---
 title: STRATEGIES
 display_header: true
-subtitle: ''
+subtitle: "**Strategies to Secure**- to secure a venture, we will keep our ideas secret so that no one can copy them.\r\n\nwe will use right ingredients and sell legal products in terms of safety and security of company."
 content_img: /images/pic06.jpg
 home:
   highlights:
