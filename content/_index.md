@@ -60,7 +60,7 @@ sections:
       lacus,  
 
       ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum.
-    title: Commodo justo interdum
+    title: FEATURES OF BLUSH-IN
     type: features
   - component: spotlights.html
     section_id: four
