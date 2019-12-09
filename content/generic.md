@@ -6,10 +6,10 @@ content_img: /images/finance.jpg
 home:
   highlights:
     enabled: true
-    weight: 4
+    weight: 5
   spotlights:
     enabled: true
-    weight: 4
+    weight: 5
 layout: page
 ---
 **we will need to spend on**
