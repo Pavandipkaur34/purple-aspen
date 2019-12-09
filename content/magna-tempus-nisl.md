@@ -5,12 +5,12 @@ subtitle: "Customer relationship is the most important thing to run a business. 
 content_img: /images/marketing.png
 home:
   highlights:
-    weight: 4
+    weight: 5
   spotlights:
     enabled: true
     excerpt: ''
     home_img_path: /images/marketing.png
-    weight: 2
+    weight: 5
 layout: page
 ---
 Customer relationship is the most important thing to run a business. There are many ways to sell products with effective way and develop relationships with our customers 
