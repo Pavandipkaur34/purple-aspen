@@ -12,6 +12,7 @@ home:
     weight: 1
   spotlights:
     enabled: true
+    home_img_path: /images/finance.jpg
     weight: 6
 layout: page
 ---
