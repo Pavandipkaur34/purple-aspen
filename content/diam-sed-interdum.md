@@ -9,7 +9,7 @@ home:
   spotlights:
     enabled: true
     excerpt: |-
-      **main Strategies are**
+      **main Strategies are-**
 
       **Strategies to Secure**
 
