@@ -1,21 +1,41 @@
 ---
-title: Diam sed interdum
+title: STRATEGIES
 display_header: true
-content_img: images/pic06.jpg
+subtitle: ''
+content_img: /images/pic06.jpg
 home:
+  highlights:
+    weight: 3
   spotlights:
     enabled: true
-    weight: 3
     excerpt: >-
       Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis imperdiet diam
       tempus lorem ipsum dolor.
     home_img_path: images/pic06.jpg
+    weight: 3
 layout: page
 ---
+**Strategies to Secure**- to secure a venture, we will keep our ideas secret so that no one can copy them.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+we will use right ingredients and sell legal products in terms of safety and security of company.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+**Strategies to Serve**- The most important strategy to serve the best in a business is that our employees who
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+represents the products first apply those products on them to show the application and the results. It
+
+will show and give added perspective to share with our customers. Further more, we will serve products
+
+to customers according to their needs as well as their budgets. We will use right ingredients and sell
+
+legal products in terms of safety as well as security of company.
+
+**Strategies to Retain**- To retain the customers, we will provide great services to our customers. There is lack of
+
+consumers when they do not get effective service. Another thing we will do to retain our consumers
+
+that we will keep in touch with our customer through some ways such as emails, telephone calls and
+
+special events, follow-ups cards and many more. The most important is that if there will be any problem
+
+to our customers then, we will be quick to resolve them and try to never let them face those problems.
