@@ -23,11 +23,7 @@ sections:
     section_id: two
     title: Highlights Section
     type: highlights
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /elements
+  - actions: []
     component: features.html
     features:
       - icon: ''
