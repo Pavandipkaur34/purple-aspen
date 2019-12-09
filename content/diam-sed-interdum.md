@@ -8,14 +8,7 @@ home:
     weight: 2
   spotlights:
     enabled: true
-    excerpt: |-
-      **main Strategies are-**
-
-      **Strategies to Secure**
-
-      **Strategies to Serve**
-
-      **Strategies to Retain**
+    excerpt: '**Strategies to Secure, Strategies to Serve, Strategies to Retain**'
     home_img_path: images/pic06.jpg
     weight: 3
 layout: page
