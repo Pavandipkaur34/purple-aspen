@@ -9,7 +9,7 @@ home:
   spotlights:
     enabled: true
     excerpt: ''
-    home_img_path: images/pic05.jpg
+    home_img_path: /images/marketing.png
     weight: 2
 layout: page
 ---
