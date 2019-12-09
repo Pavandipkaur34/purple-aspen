@@ -26,7 +26,7 @@ home:
       Total expenses
     home_img:
       data_position: center right
-    weight: 0
+    weight: 4
   spotlights:
     enabled: false
     weight: 7
