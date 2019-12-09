@@ -30,36 +30,21 @@ sections:
         url: /elements
     component: features.html
     features:
-      - icon: fa-camera-retro
+      - icon: ''
         text: >-
-          Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare,
-          justo non pulvinar interdum, neque justo auctor lectus, facilisis diam
-          tempus.
-        title: Facilisis tempus
-      - icon: fa-cog
+          Every product of BLUSH-IN is made from natural extracts that can not
+          be harmful to skin and suitable for sensitive skin.
+        title: 100% from natural ingredients
+      - icon: ''
+        text: products are long lasting that can be lasts up-to 48 hours.
+        title: long-lasting
+      - icon: ''
         text: >-
-          Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare,
-          justo non pulvinar interdum, neque justo auctor lectus, facilisis diam
-          tempus.
-        title: Lectus magna
-      - icon: fa-diamond
-        text: >-
-          Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare,
-          justo non pulvinar interdum, neque justo auctor lectus, facilisis diam
-          tempus.
-        title: Ipsum lorem
-      - icon: fa-floppy-o
-        text: >-
-          Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare,
-          justo non pulvinar interdum, neque justo auctor lectus, facilisis diam
-          tempus.
-        title: Feugiat veroeros
+          problems like tanning, blemishes, ageing lines easily cover by our
+          products.
+        title: full coverage
     section_id: three
-    subtitle: >-
-      Nam condimentum ullamcorper quam vitae dictum. Sed consectetur nulla
-      lacus,  
-
-      ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum.
+    subtitle: Various features of our business are-
     title: FEATURES OF BLUSH-IN
     type: features
   - component: spotlights.html
