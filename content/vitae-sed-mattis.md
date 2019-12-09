@@ -12,9 +12,9 @@ home:
     home_img:
       data_position: top right
       path: /images/1569534442-untitled_design_29_0.jpg
-    weight: 2
+    weight: 6
   spotlights:
-    weight: 4
+    weight: 6
 layout: page
 ---
 Foundation Primer....
