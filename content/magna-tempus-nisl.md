@@ -5,7 +5,7 @@ subtitle: 'world''s better customer care service, can contact any time.'
 content_img: /images/marketing.png
 home:
   highlights:
-    weight: 5
+    weight: 1
   spotlights:
     enabled: true
     excerpt: ''
