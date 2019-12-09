@@ -1,22 +1,20 @@
 ---
-title: Vitae sed mattis
+title: PRODUCTS
 display_header: true
 subtitle: >-
-  Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus volutpat at.
-  Nunc rutrum turpis.
-content_img: images/pic06.jpg
+  We will provide various products such as foundations, concealers, primers,
+  lipsticks, all CTM products and much more.
+content_img: /images/1569534442-untitled_design_29_0.jpg
 home:
   highlights:
     enabled: true
-    weight: 2
-    excerpt: >-
-      Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
-      purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
-      finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
-      ornare, justo non.
+    excerpt: All the products are made from natural ingredients.
     home_img:
-      path: images/pic02.jpg
       data_position: top right
+      path: images/pic02.jpg
+    weight: 2
+  spotlights:
+    weight: 4
 layout: page
 ---
 
