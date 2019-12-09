@@ -1,6 +1,6 @@
 ---
 title: ' FINANCE'
-display_header: true
+display_header: false
 subtitle: 'We will spend $6,95,000  on our venture to manage various expenses.'
 content_img: /images/finance.jpg
 home:
