@@ -6,7 +6,7 @@ home:
     enabled: false
     home_img:
       data_position: center right
-    weight: 1
+    weight: 7
   spotlights:
     enabled: false
     weight: 1
