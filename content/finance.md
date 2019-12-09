@@ -1,6 +1,6 @@
 ---
 title: FINANCE
-display_header: false
+display_header: true
 home:
   highlights:
     enabled: false
