@@ -53,13 +53,11 @@ cta:
       is_scrolly: false
       label: Get Started
       url: /generic
-  background_style: style1
+  background_style: style3
   enabled: true
   text: >-
-    Ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum. Mauris at
-    vestibulum  
-
-    mauris, eu eleifend lorem ipsum dolor sit amet nullam consequat.
+    BLUSH-IN is a brand which provide high quality cosmetics, promoting
+    innovation and also maximum efficiency with long-lasting products.
   title: About Us
 layout: home
 ---
