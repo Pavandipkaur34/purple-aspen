@@ -2,16 +2,20 @@
 title: STRATEGIES
 display_header: true
 subtitle: "**Strategies to Secure**- to secure a venture, we will keep our ideas secret so that no one can copy them.\r\n\nwe will use right ingredients and sell legal products in terms of safety and security of company."
-content_img: /images/pic06.jpg
+content_img: /images/031517-blog-glow-1.jpg
 home:
   highlights:
-    weight: 3
+    weight: 2
   spotlights:
     enabled: true
-    excerpt: >-
-      Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis imperdiet diam
-      tempus lorem ipsum dolor.
+    excerpt: |-
+      **main Strategies are**
+
+      **Strategies to Secure**
+
+      **Strategies to Serve**
+
+      **Strategies to Retain**
     home_img_path: images/pic06.jpg
     weight: 3
 layout: page
