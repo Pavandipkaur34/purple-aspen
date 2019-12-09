@@ -9,7 +9,7 @@ home:
     excerpt: ''
     home_img:
       data_position: center center
-      path: images/pic03.jpg
+      path: /images/risklush-ingredients.jpg
     weight: 3
   spotlights:
     weight: 5
