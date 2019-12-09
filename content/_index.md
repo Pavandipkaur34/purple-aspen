@@ -10,7 +10,6 @@ banner:
 sections:
   - component: icons.html
     icons:
-      - icon: fa-coffee
       - icon: fa-code
       - icon: fa-cloud
     section_id: one
