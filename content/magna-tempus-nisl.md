@@ -1,7 +1,7 @@
 ---
 title: ' MARKETING'
 display_header: true
-subtitle: 'better customer care service, can contact any time.'
+subtitle: 'world''s better customer care service, can contact any time.'
 content_img: /images/marketing.png
 home:
   highlights:
