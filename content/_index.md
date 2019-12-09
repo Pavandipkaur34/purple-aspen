@@ -22,7 +22,7 @@ sections:
       vestibulum  
 
       mauris, eu eleifend lorem ipsum dolor sit amet nullam consequat.
-    title: Dictum lorem feugiat
+    title: MISSION
     type: icons
   - component: highlights.html
     section_id: two
