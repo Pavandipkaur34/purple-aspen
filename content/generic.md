@@ -5,7 +5,7 @@ subtitle: 'We will spend $6,95,000  on our venture to manage various expenses.'
 content_img: /images/finance.jpg
 home:
   highlights:
-    weight: 3
+    weight: 2
   spotlights:
     weight: 2
 layout: page
