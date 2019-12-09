@@ -60,7 +60,7 @@ cta:
     vestibulum  
 
     mauris, eu eleifend lorem ipsum dolor sit amet nullam consequat.
-  title: Amet magna tempus
+  title: About Us
 layout: home
 ---
 
