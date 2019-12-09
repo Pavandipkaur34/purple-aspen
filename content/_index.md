@@ -56,8 +56,8 @@ cta:
   background_style: style3
   enabled: true
   text: >-
-    BLUSH-IN is a brand which provide high quality cosmetics, promoting
-    innovation and also maximum efficiency with long-lasting products.
+    We provide high quality cosmetics, promoting innovation and also maximum
+    efficiency with long-lasting products.
   title: About Us
 layout: home
 ---
