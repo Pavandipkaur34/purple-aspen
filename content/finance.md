@@ -16,7 +16,7 @@ home:
     weight: 6
 layout: page
 ---
-**we will need to spend on**
+**we will need $6,95,000 to spend on**
 
 Infrastructure 
 
