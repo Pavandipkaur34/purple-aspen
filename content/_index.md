@@ -2,7 +2,10 @@
 title: Home
 banner:
   show_scroll_button: true
-  subtitle: _**Visit & enhance your beauty with our products....**_
+  subtitle: |-
+    ![](/images/kareena-kapoor-2017-600.jpg)
+
+    **_Visit & enhance your beauty with our products...._**
   title: BLUSH-IN
 sections:
   - component: icons.html
