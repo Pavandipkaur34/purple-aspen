@@ -1,21 +1,18 @@
 ---
-title: Magna tempus nisl
+title: MARKETING
 display_header: true
+subtitle: "Customer relationship is the most important thing to run a business. There are many ways to sell products with effective way and develop relationships with our customers \r\n\nFirst of all, communication is when we work with consumers, our main motive will be to connect with them. We will provide them a good customer care and service. Apart from this, we will provide extra perks to our loyal customers such as by setting up reward system to our most visited and loyal consumer. Due to this, we will not only encourage them to stick with us but also to other users to use our products. To added to this, we will organize some seminars to show our products to public. We will send emails to our customers on their special events to keep in touch with them. By this, number of people will encourage toward our company and the relationship with them will become more strong."
 content_img: images/pic06.jpg
 home:
+  highlights:
+    weight: 4
   spotlights:
     enabled: true
-    weight: 2
-    excerpt: >-
-      Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis imperdiet diam
-      tempus lorem ipsum dolor.
+    excerpt: ''
     home_img_path: images/pic05.jpg
+    weight: 2
 layout: page
 ---
+Customer relationship is the most important thing to run a business. There are many ways to sell products with effective way and develop relationships with our customers 
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+First of all, communication is when we work with consumers, our main motive will be to connect with them. We will provide them a good customer care and service. Apart from this, we will provide extra perks to our loyal customers such as by setting up reward system to our most visited and loyal consumer. Due to this, we will not only encourage them to stick with us but also to other users to use our products. To added to this, we will organise some seminars to show our products to public. We will send emails to our customers on their special events to keep in touch with them. By this, number of people will encourage toward our company and the relationship with them will become more strong.
