@@ -15,13 +15,9 @@ sections:
       - icon: fa-cloud
     section_id: one
     subtitle: >-
-      Nam condimentum ullamcorper quam vitae dictum. Sed consectetur nulla
-      lacus,  
-
-      ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum. Mauris at
-      vestibulum  
-
-      mauris, eu eleifend lorem ipsum dolor sit amet nullam consequat.
+      The mission of establish BLUSH-IN is to provide complete satisfaction and
+      well being of our clients. We want to manufacturing high quality cosmetics
+      and promoting innovation and also maximum efficiency.
     title: MISSION
     type: icons
   - component: highlights.html
