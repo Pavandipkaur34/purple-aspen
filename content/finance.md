@@ -9,10 +9,10 @@ home:
     excerpt: '****'
     home_img:
       data_position: center right
-    weight: 0
+    weight: 1
   spotlights:
     enabled: true
-    weight: 4
+    weight: 6
 layout: page
 ---
 **we will need to spend on**
