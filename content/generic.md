@@ -6,7 +6,7 @@ content_img: /images/finance.jpg
 home:
   highlights:
     enabled: true
-    weight: 2
+    weight: 0
   spotlights:
     enabled: true
     weight: 4
