@@ -10,7 +10,7 @@ home:
     enabled: true
     excerpt: '**Strategies to Secure, Strategies to Serve, Strategies to Retain**'
     home_img_path: /images/pic05.jpg
-    weight: 3
+    weight: 2
 layout: page
 ---
 **Strategies to Secure**- to secure a venture, we will keep our ideas secret so that no one can copy them.
