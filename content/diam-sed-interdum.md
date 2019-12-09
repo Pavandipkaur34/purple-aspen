@@ -9,7 +9,7 @@ home:
   spotlights:
     enabled: true
     excerpt: '**Strategies to Secure, Strategies to Serve, Strategies to Retain**'
-    home_img_path: images/pic06.jpg
+    home_img_path: /images/pic05.jpg
     weight: 3
 layout: page
 ---
