@@ -2,20 +2,21 @@
 title: VISION
 display_header: true
 subtitle: >-
-  Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus volutpat at.
-  Nunc rutrum turpis.
+  **“To Establish a Company Which is Recognized by its Uniqueness as well as
+  Quality of Products”**
 content_img: images/pic06.jpg
 home:
   highlights:
     enabled: true
     excerpt: >-
-      Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
-      purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
-      finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
-      ornare, justo non.
+      _My vision is to provide glamour, excitement, confidence, satisfaction and
+      also innovation through our products at reasonable price. Setup a business
+      of make-up as well as skin care products is one of my big dreams. This
+      venture helps the people to look great as well as save their time by using
+      our long lasting products._
     home_img:
       data_position: center right
-      path: images/pic01.jpg
+      path: /images/181-840x487.jpg
     weight: 1
   spotlights:
     weight: 1
