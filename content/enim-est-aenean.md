@@ -2,7 +2,7 @@
 title: RISK
 display_header: true
 subtitle: "The major risks in my venture with their solutions are- \n\n1.\tProduct risk\n\n2.\tMarket risk\n\n3.\tFinancial risk\n\n4.\tReputational risk"
-content_img: images/pic06.jpg
+content_img: /images/risklush-ingredients.jpg
 home:
   highlights:
     enabled: true
@@ -12,7 +12,7 @@ home:
       path: /images/risklush-ingredients.jpg
     weight: 3
   spotlights:
-    weight: 5
+    weight: 3
 layout: page
 ---
 The major risks are- 
