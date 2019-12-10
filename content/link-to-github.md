@@ -8,7 +8,7 @@ home:
     excerpt: ''
     home_img:
       data_position: center right
-    weight: 2
+    weight: 7
   spotlights:
     enabled: false
     weight: 2
