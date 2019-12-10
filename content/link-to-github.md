@@ -1,6 +1,6 @@
 ---
 title: LINK TO GITHUB
-display_header: false
+display_header: true
 home:
   highlights:
     enabled: false
