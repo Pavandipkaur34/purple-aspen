@@ -5,13 +5,13 @@ subtitle: ''
 home:
   highlights:
     enabled: false
-    excerpt: ''
+    excerpt: 'https://github.com/Pavandipkaur34/purple-aspen'
     home_img:
       data_position: center right
     weight: 7
   spotlights:
     enabled: false
-    weight: 2
+    weight: 7
 layout: page
 ---
-https://github.com/Pavandipkaur34/purple-aspen
+
