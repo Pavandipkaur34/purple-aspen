@@ -5,15 +5,9 @@ social_icons:
   - icon: fa-facebook
     title: Facebook
     url: '#'
-  - icon: fa-linkedin
-    title: LinkedIn
-    url: '#'
   - icon: fa-github
     title: Github
     url: 'https://github.com/Pavandipkaur34/purple-aspen'
-  - icon: fa-envelope
-    title: Email
-    url: '#'
 copyright: >-
   &copy; Construct. All rights reserved. Lorem ipsum dolor sit amet nullam
   consequat.
