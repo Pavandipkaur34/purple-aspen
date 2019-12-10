@@ -10,7 +10,7 @@ home:
     weight: 2
   spotlights:
     enabled: false
-    weight: 1
+    weight: 2
 layout: page
 ---
 
