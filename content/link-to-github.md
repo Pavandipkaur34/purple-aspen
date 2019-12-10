@@ -8,10 +8,10 @@ home:
     excerpt: 'https://github.com/Pavandipkaur34/purple-aspen'
     home_img:
       data_position: center right
-    weight: 7
+    weight: 8
   spotlights:
     enabled: false
-    weight: 7
+    weight: 11
 layout: page
 ---
 
