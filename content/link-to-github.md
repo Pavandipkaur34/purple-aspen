@@ -1,7 +1,7 @@
 ---
 title: LINK TO GITHUB
-display_header: true
-subtitle: 'https://github.com/Pavandipkaur34/purple-aspen'
+display_header: false
+subtitle: ''
 home:
   highlights:
     enabled: false
@@ -14,4 +14,4 @@ home:
     weight: 2
 layout: page
 ---
-
+https://github.com/Pavandipkaur34/purple-aspen
