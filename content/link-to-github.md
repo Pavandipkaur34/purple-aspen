@@ -4,8 +4,8 @@ display_header: true
 subtitle: 'https://github.com/Pavandipkaur34/purple-aspen'
 home:
   highlights:
-    enabled: true
-    excerpt: 'https://github.com/Pavandipkaur34/purple-aspen'
+    enabled: false
+    excerpt: ''
     home_img:
       data_position: center right
     weight: 2
