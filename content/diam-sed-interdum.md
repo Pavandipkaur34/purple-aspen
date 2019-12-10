@@ -5,12 +5,12 @@ subtitle: "**Strategies to Secure**- to secure a venture, we will keep our ideas
 content_img: /images/031517-blog-glow-1.jpg
 home:
   highlights:
-    weight: 2
+    weight: 3
   spotlights:
     enabled: true
     excerpt: '**Strategies to Secure, Strategies to Serve, Strategies to Retain**'
     home_img_path: /images/pic05.jpg
-    weight: 2
+    weight: 3
 layout: page
 ---
 **Strategies to Secure**- to secure a venture, we will keep our ideas secret so that no one can copy them.
